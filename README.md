@@ -1,3 +1,26 @@
+## rqt_robot_steering (kinetic) - 0.5.8-0
+
+The packages in the `rqt_robot_steering` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rqt_robot_steering` on `Fri, 13 Oct 2017 19:25:46 -0000`
+
+The `rqt_robot_steering` package was released.
+
+Version of package(s) in repository `rqt_robot_steering`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_steering.git
+- release repository: https://github.com/ros-gbp/rqt_robot_steering-release.git
+- rosdistro version: `0.5.7-0`
+- old version: `0.5.7-0`
+- new version: `0.5.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.8`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## rqt_robot_steering (lunar) - 0.5.8-0
 
 The packages in the `rqt_robot_steering` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar rqt_robot_steering` on `Thu, 12 Oct 2017 20:57:48 -0000`
