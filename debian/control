@@ -1,0 +1,12 @@
+Source: ros-lunar-rqt-robot-steering
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: http://wiki.ros.org/rqt_robot_steering
+Standards-Version: 3.9.2
+
+Package: ros-lunar-rqt-robot-steering
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-rospkg, ros-lunar-geometry-msgs, ros-lunar-python-qt-binding (>= 0.2.19), ros-lunar-rostopic, ros-lunar-rqt-gui, ros-lunar-rqt-gui-py
+Description: rqt_robot_steering provides a GUI plugin for steering a robot using Twist messages.
