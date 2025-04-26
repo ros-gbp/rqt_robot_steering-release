@@ -1,3 +1,26 @@
+## rqt_robot_steering (noetic) - 0.5.14-1
+
+The packages in the `rqt_robot_steering` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic rqt_robot_steering` on `Sat, 26 Apr 2025 22:24:43 -0000`
+
+The `rqt_robot_steering` package was released.
+
+Version of package(s) in repository `rqt_robot_steering`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_steering.git
+- release repository: https://github.com/ros-gbp/rqt_robot_steering-release.git
+- rosdistro version: `0.5.13-1`
+- old version: `0.5.13-1`
+- new version: `0.5.14-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt_robot_steering (noetic) - 0.5.13-1
 
 The packages in the `rqt_robot_steering` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic rqt_robot_steering` on `Thu, 10 Apr 2025 00:37:16 -0000`
